@@ -14,3 +14,37 @@ a {
 * {
   box-sizing: border-box;
 }
+.react-multi-carousel-list  {
+  transition: all 1s;
+}
+.react-multi-carousel-item.react-multi-carousel-item--active{
+  max-width: 350px;
+  transition: 0.5s all;
+  transition: all 0.5s;
+}
+.react-multi-carousel-item.react-multi-carousel-item--active:hover{
+  margin-top: -4px;
+}
+.legend{
+  display: none;
+}
+.orangebg{
+  background: linear-gradient(180deg,#fca28b 0,#ff540b 28%,#ff5c12 83%,#ffc0a3 100%);
+  
+}
+.orangebg .true{
+  display: none;
+}
+.bluebg{
+  background: linear-gradient( 180deg, #00d3ff 0%,#00c0fa 100%);
+}
+.bluebg .false{
+  display: none;
+}
+.text-blue{
+  color: #6dbae2;
+}
+.img-fluid{
+  width: 100%;
+  height: auto;
+}

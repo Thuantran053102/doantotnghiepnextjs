@@ -1,0 +1,136 @@
+.bg-gradient {
+    background: rgb(230,88,35);
+    background: linear-gradient(90deg, rgba(230,88,35,1) 0%, rgba(192,10,31,1) 100%);
+}
+
+.sda{
+    text-decoration: none ;
+}
+.font-15 {
+    font-size: 15px;
+}
+
+.content-hightlightProduct > ul {
+    list-style: unset;
+}
+
+.content-hightlightProduct {
+    padding-left: 20px;
+}
+
+.font-24 {
+    font-size: 24px;
+}
+
+.font-13 {
+    font-size: 13px;
+}
+
+.text-sale {
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.px-w-100 {
+    max-width: 100px;
+}
+
+.img-product {
+    object-fit: contain !important;
+    width: 429px;
+    height: 429px;
+}
+
+.p-px-15 {
+    padding: 15px;
+}
+
+.policy_new li {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    padding-bottom: 10px;
+}
+
+    .policy_new li:last-child {
+        padding-bottom: 0px;
+    }
+
+    .policy_new li i {
+        color: #8bbf8e;
+    }
+
+
+/* #carousel-product-sub > div > div {
+    width: 100% !important;
+    justify-content: center;
+}*/
+
+div.list-unset > ul, ol {
+    list-style: unset
+}
+
+    div.list-unset > ul > li::marker {
+        color: #004cc6;
+    }
+
+div.list-unset > ol > li::marker {
+    color: #004cc6;
+}
+
+.font-sm-24 {
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.font-sm-20 {
+    font-size: 16px;
+}
+
+@media (min-width: 576px) {
+    .font-sm-24 {
+        font-size: 24px;
+        font-weight: 500;
+    }
+
+    .font-sm-20 {
+        font-size: 20px;
+    }
+}
+
+.carousel-product-sub .owl-controls {
+    display: block !important;
+}
+
+.carousel-product-sub .owl-prev {
+    left: -15%;
+    position: absolute;
+    top: 42%;
+    transition: all 0.45s cubic-bezier(0.165, 0.84, 0.44, 1) 0s;
+}
+
+.carousel-product-sub .owl-next {
+    right: -10%;
+    position: absolute;
+    top: 42%;
+    z-index: 10;
+    transition: all 0.45s cubic-bezier(0.165, 0.84, 0.44, 1) 0s;
+}
+
+.productdetail-tragop-0-small {
+    position: absolute;
+    top: 10px !important;
+    left: 10px;
+    border-radius: 30px;
+    background-color: #ff4e00;
+    z-index: 1;
+    text-transform: uppercase;
+    color: #000;
+}
+
+/*  .btn-gradient-blue-page{
+    background:#fff!important;
+}*/
