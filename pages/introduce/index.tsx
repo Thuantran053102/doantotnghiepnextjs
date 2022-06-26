@@ -375,7 +375,7 @@ export default function Introduce(){
                                     <p className={c(Style.ContentVision,"text-left")} style={{fontSize:'60px'}}>
                                     
                                     
-                                    <i className="font-weight-bold">Sản phẩm & Dịch vụ <span className={c(Style.line,"line line-100")}></span></i>
+                                    <i className="font-weight-bold">Sản phẩm vs Dịch vụ <span className={c(Style.line,"line line-100")}></span></i>
                                         
                                     </p>
                                     
@@ -477,7 +477,7 @@ export default function Introduce(){
                                     </div>
                                     
                                     <div className={c(Style.contactWrap,'col-md-6')}>
-                                        <h4 className="text-upercase">quy định & chính sách</h4>
+                                        <h4 className="text-upercase">quy định vs chính sách</h4>
                                         <p className="text-upercase">Chính sách Bảo hành</p>
                                         <p>Chính sách trả góp</p>
                                         <p>Chính sách vậ chuyển và giao hàng</p>
