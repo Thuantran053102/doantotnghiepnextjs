@@ -140,7 +140,7 @@ export default function Introduce(){
                             </div>
                             <div className="col-md-2">
                             <span className="mdi mdi-chevron-double-right  d-xl-block  d-sm-block " style={{fontSize: "90px" , color:"#17a2b8"}}></span>
-                            {/* <i className="mdi mdi-chevron-triple-right text-info d-xl-block d-sm-none d-lg-block d-xl-block d-none" style={{fontSize: "90px"}}></i> */}
+                          
                             </div>
                             <div className="col-md-5">
                                 <h2 className={c(Style.fontIn,"font-weight-bold text-center text-hightline w-100")}>Năm 2024</h2>
@@ -432,9 +432,7 @@ export default function Introduce(){
                                         <div className={c("card-body px-h-220 pb-5")} style={{color:"#777"}}>
                                             <p className="card-text">Với hệ thống Payoo có thể giải quyết nhanh chóng và an toàn mọi nỗi lo âu với các hoá đơn: tiền điện, tiền nước, tài chính,...</p>
                                             <p className="card-text">Hỗ trợ thanh toán bằng nhiều hình thức khác nhau</p>
-                                            <p className="card-text">Hỗ trợ trả góp: Ưu đãi hấp dẫn và xét duyệt hồ sơ nhanh chóng với nhiều ngân hàng liên kết: HDSaigon, HomeCredit, ACS, ...
-
-</p>
+                                            <p className="card-text">Hỗ trợ trả góp: Ưu đãi hấp dẫn và xét duyệt hồ sơ nhanh chóng với nhiều ngân hàng liên kết: HDSaigon, HomeCredit, ACS, ...</p>
                
                                         </div>
                                     </div>

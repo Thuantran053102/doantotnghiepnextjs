@@ -12,11 +12,11 @@ const Home: NextPage = () => {
       </Head>
 
       <main className={styles.main}>
-      
+        <h1>hlo</h1>
       </main>
 
       <footer className={styles.footer}>
-       
+        <h1>hlo</h1>
       </footer>
     </div>
   )
